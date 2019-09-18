@@ -16,7 +16,7 @@
 
 ## <a name="R"> </a>R
 
-* [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is an entire platform backed by [Firebase](https://firebase.google.com) that allows users to see and share experiences from Mozambique. Where you can find places, lyrics, poems and pictures from artists, non artists, and enthusiasts.
+* [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is an mobile tool where we can share and find things related to Mozambique - the people and things there. From reflections and culture, throught history and gastronomy, to tourim and even fashion, if it is something about there, you should share and find it in Reaque.
  **By [@horaciocome1](https://github.com/horaciocome1)**
 
 ## <a name="S"> </a>S

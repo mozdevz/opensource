@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+title: MozDevz Open Source
+description: List of Open Source projects maintained by Mozambican Developers
+github:
+  owner_url: https://mozdevz.org
+  owner_name: MozDevz
+  repository_name: MozDevz Open Source

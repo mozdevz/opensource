@@ -1,5 +1,5 @@
 <h1 align="center">
-    MozDevz Repos
+    MozDevz Open Source
 </h1>
 <p align="center">List of Open Source projects by Mozambican Developers</p>
 

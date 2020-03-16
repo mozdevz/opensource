@@ -10,6 +10,10 @@
 </p>
 
 
+## <a name="C"> </a>C
+
+* [cambiomz](https://github.com/kradnoel/cambiomz) - Unofficial BCI Exchange API, that let you get the money exchange data available on Mozambique BCI Bank website. **By [@kradnoel](https://github.com/kradnoel)**
+
 ## <a name="N"> </a>N
 
 * [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**

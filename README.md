@@ -14,6 +14,10 @@
 
 * [cambiomz](https://github.com/kradnoel/cambiomz) - Unofficial BCI Exchange API, that let you get the money exchange data available on Mozambique BCI Bank website. **By [@kradnoel](https://github.com/kradnoel)**
 
+## <a name="F"> </a>F
+
+* [firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@rosariopfernandes](https://github.com/rosariopfernandes)**
+
 ## <a name="N"> </a>N
 
 * [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**

@@ -18,6 +18,12 @@
 
 * [firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@rosariopfernandes](https://github.com/rosariopfernandes)**
 
+
+## <a name="M"> </a>M
+
+* [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
+
+
 ## <a name="N"> </a>N
 
 * [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**

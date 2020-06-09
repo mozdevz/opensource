@@ -23,6 +23,8 @@
 
 * [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
 
+* [mpesa_sdk_dart](https://github.com/realrgt/mpesa_sdk_dart) - Dart | Flutter library for M-Pesa API (Mozambique). **By [@realrgt](https://github.com/realrgt)**
+
 
 ## <a name="N"> </a>N
 

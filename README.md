@@ -21,9 +21,15 @@
 
 ## <a name="M"> </a>M
 
-* [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
+* [mpesasdk](https://github.com/realdm/mpesasdk) - unofficial SDK with the aim to make it easy to integrate with the Vodacom Mozambique M-Pesa payments API on android apps. **By [@realdm](https://github.com/realdm)**
+
+* [mpesa-node-api](https://github.com/rosariopfernandes/mpesa-node-api) - Node.js wrapper for M-Pesa API (Mozambique). **By [@rosariopfernandes](https://github.com/rosariopfernandes)**
+
+* [mpesa-php-api](https://github.com/abdulmueid/mpesa-php-api) - PHP library for M-Pesa API (Mozambique). **By [@abdulmueid](https://github.com/abdulmueid)**
 
 * [mpesa_sdk_dart](https://github.com/realrgt/mpesa_sdk_dart) - Dart | Flutter library for M-Pesa API (Mozambique). **By [@realrgt](https://github.com/realrgt)**
+
+* [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
 
 
 ## <a name="N"> </a>N

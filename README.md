@@ -36,6 +36,10 @@
 
 * [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**
 
+## <a name="P"> </a>P
+
+* [PaymentsDS](https://github.com/paymentsds) (Payments Developer Suite) - a suite of SDKs aiming to help businesses integrating M-Pesa operations into their  applications.
+
 ## <a name="R"> </a>R
 
 * [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is a mobile tool where you can share and find stories from Mozambique. From thoughts and culture, through history and gastronomy, to tourism and even fashion, if it is something about Mozambique, you should share or find it in Reaque.

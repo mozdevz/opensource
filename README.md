@@ -14,7 +14,7 @@
 
 * [cambiomz](https://github.com/kradnoel/cambiomz) - Unofficial BCI Exchange API, that let you get the money exchange data available on Mozambique BCI Bank website. **By [@kradnoel](https://github.com/kradnoel)**
 
-* [Colpal](https://github.com/HenriqueChigumane/colpal) - 🎨Color recommendation, color pallets, Flat UI colors, Modern Gradients and Monochromatic Palettes website, built with basicly html and css and 5 lines of javascript). **By [@henriquechigumane](https://github.com/HenriqueChigumane/)**
+* [Colpal](https://github.com/HenriqueChigumane/colpal) - 🎨 Color recommendation, color palettes, Flat UI colors, Modern Gradients and Monochromatic Palettes website, built with basicly html and css and 5 lines of javascript. **By [@henriquechigumane](https://github.com/HenriqueChigumane/)**
 
 
 ## <a name="F"> </a>F

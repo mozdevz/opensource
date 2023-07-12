@@ -22,6 +22,11 @@
 * [firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@rosariopfernandes](https://github.com/rosariopfernandes)**
 
 
+## <a name="G"> </a>G
+
+* [GitHub_Insights--Mozambique](https://github.com/HercoZauZau/GitHub_Insights--Mozambique) - Exploring the Mozambican developer ecosystem through github data analysis. **By [@hercozauzau](https://github.com/hercozauzau)**
+
+
 ## <a name="M"> </a>M
 
 * [mpesasdk](https://github.com/realdm/mpesasdk) - unofficial SDK with the aim to make it easy to integrate with the Vodacom Mozambique M-Pesa payments API on android apps. **By [@realdm](https://github.com/realdm)**

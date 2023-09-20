@@ -17,6 +17,11 @@
 * [Colpal](https://github.com/HenriqueChigumane/colpal) - 🎨 Color recommendation, color palettes, Flat UI colors, Modern Gradients and Monochromatic Palettes website, built with basicly html and css and 5 lines of javascript. **By [@henriquechigumane](https://github.com/HenriqueChigumane/)**
 
 
+## <a name="D"> </a>D
+
+* [Data4School](https://github.com/HercoZauZau/Data4School) - Mozambican Schools Data Analysis. **By [@hercozauzau](https://github.com/hercozauzau)**
+
+
 ## <a name="F"> </a>F
 
 * [firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@rosariopfernandes](https://github.com/rosariopfernandes)**

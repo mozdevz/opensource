@@ -14,7 +14,7 @@
 
 * [cambiomz](https://github.com/kradnoel/cambiomz) - Unofficial BCI Exchange API, that let you get the money exchange data available on Mozambique BCI Bank website. **By [@kradnoel](https://github.com/kradnoel)**
 
-* [Colpal](https://github.com/HenriqueChigumane/colpal) - 🎨 Color recommendation, color palettes, Flat UI colors, Modern Gradients and Monochromatic Palettes website, built with basicly html and css and 5 lines of javascript. **By [@themisterpaps](https://github.com/themisterpaps/)**
+* [Colpal](https://github.com/themisterpaps/colpal) - 🎨 Color recommendation, color palettes, Flat UI colors, Modern Gradients and Monochromatic Palettes website, built with basicly html and css and 5 lines of javascript. **By [@themisterpaps](https://github.com/themisterpaps/)**
 
 
 ## <a name="D"> </a>D
@@ -24,7 +24,7 @@
 
 ## <a name="F"> </a>F
 
-* [firecoil](https://github.com/rosariopfernandes/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@rosariopfernandes](https://github.com/rosariopfernandes)**
+* [firecoil](https://github.com/thatfiredev/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@thatfiredev](https://github.com/thatfiredev)**
 
 
 ## <a name="G"> </a>G
@@ -36,7 +36,7 @@
 
 * [mpesasdk](https://github.com/realdm/mpesasdk) - unofficial SDK with the aim to make it easy to integrate with the Vodacom Mozambique M-Pesa payments API on android apps. **By [@realdm](https://github.com/realdm)**
 
-* [mpesa-node-api](https://github.com/rosariopfernandes/mpesa-node-api) - Node.js wrapper for M-Pesa API (Mozambique). **By [@rosariopfernandes](https://github.com/rosariopfernandes)**
+* [mpesa-node-api](https://github.com/thatfiredev/mpesa-node-api) - Node.js wrapper for M-Pesa API (Mozambique). **By [@thatfiredev](https://github.com/thatfiredev)**
 
 * [mpesa-php-api](https://github.com/abdulmueid/mpesa-php-api) - PHP library for M-Pesa API (Mozambique). **By [@abdulmueid](https://github.com/abdulmueid)**
 
@@ -67,5 +67,5 @@
  **By [@horaciocome1](https://github.com/horaciocome1)**
 
 ## <a name="T"> </a>T
-* [Tocha](https://github.com/rosariopfernandes/Tocha) - 🔥 Full-Text Search for Firebase Projects that use the Spark (Free) plan.
- **By [@rosariopfernandes](https://github.com/rosariopfernandes)**
+* [Tocha](https://github.com/thatfiredev/Tocha) - 🔥 Full-Text Search for Firebase Projects that use the Spark (Free) plan.
+ **By [@thatfiredev](https://github.com/thatfiredev)**

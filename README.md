@@ -43,6 +43,7 @@
 * [mpesa_sdk_dart](https://github.com/realrgt/mpesa_sdk_dart) - Dart | Flutter library for M-Pesa API (Mozambique). **By [@realrgt](https://github.com/realrgt)**
 
 * [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
+* [Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique. 
 
 
 ## <a name="N"> </a>N

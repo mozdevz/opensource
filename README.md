@@ -17,6 +17,8 @@
 
 - [Data4School](https://github.com/HercoZauZau/Data4School) - Mozambican Schools Data Analysis. **By [@hercozauzau](https://github.com/hercozauzau)**
 
+- [Dumbanengue](https://github.com/HercoZauZau/Dumbanengue) - Mozambican Food Price Prediction using Machine Learning. **By [@hercozauzau](https://github.com/hercozauzau)**
+
 ## <a name="F"> </a>F
 
 - [firecoil](https://github.com/thatfiredev/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@thatfiredev](https://github.com/thatfiredev)**

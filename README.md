@@ -1,6 +1,12 @@
 <h1 align="center">
     MozDevz Open Source
 </h1>
+
+<p align="center">This repository is maintained by Mozdevz community, and presents a list organized in order
+alphabetical, of Mozambican open source repositories. <br>
+You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br>
+Happy Coding!</p>
+
 <p align="center">List of Open Source projects by Mozambican Developers</p>
 
 <p align="center">

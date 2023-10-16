@@ -39,6 +39,8 @@
 
 - [Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique.
 
+- [Moz-schools-api](https://github.com/FranciscoJunior12/Moz-Schools-API) -  is an API that provides access to detailed information about schools in Mozambique such as name, province, district, code, latitude and longitude coordinates. by [@franciscojunior12](https://github.com/franciscojunior12).
+
 ## <a name="N"> </a>N
 
 - [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**

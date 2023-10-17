@@ -2,13 +2,14 @@
     MozDevz Open Source
 </h1>
 
-<p align="center">This repository is maintained by Mozdevz community, and presents a list organized in order of categories, Mozambican open source repositories. You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br>
+<p align="center">This repository is maintained by Mozdevz community, and presents a list organized in order of categories, Mozambican open source repositories. You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br><br>
 Happy Coding!</p>
 
 
 <h4 align="center">List of Open Source projects by Mozambican Developers</h4>
 
 <p align="center">
+    <h1>Categories</h1>
   <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="Design and Creativity">Design and Creativity</a> | <a href="#Data Visualization Tools">Data Visualization Tools</a> | <a href="#Content Management Systems (CMS)">Content Management Systems (CMS)</a> |
 </p>
 
@@ -69,4 +70,4 @@ Happy Coding!</p>
 <br>
 <br>
 
-<p>You can add your repository by clicking this link: (https://bit.ly/open-source-moz) </p>
+<p>Other categories are alowed, you can find them in the link above, and add your repositories by clicking this link: (https://bit.ly/open-source-moz)</p>

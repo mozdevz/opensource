@@ -54,8 +54,11 @@ Happy Coding!</p>
 
 - [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**
 
-- reaque - Repository for the Reaque android app. Reaque is a mobile tool where you can share and find stories from Mozambique. From thoughts and culture, through history and gastronomy, to tourism and even fashion, if it is something about Mozambique, you should share or find it in Reaque. By @horaciocome1
+- [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is a mobile tool where you can share and find stories from Mozambique. From thoughts and culture, through history and gastronomy, to tourism and even fashion, if it is something about Mozambique, you should share or find it in Reaque.
+  **By [@horaciocome1](https://github.com/horaciocome1)**
   
-- simple-recyclerview-touch-listener - An android library to simple handle user touch events over recyclerview. By @horaciocome1
+- [simple-recyclerview-touch-listener](https://github.com/horaciocome1/simple-recyclerview-touch-listener) - An android library to simple handle user touch events over recyclerview.
+  **By [@horaciocome1](https://github.com/horaciocome1)**
   
-- Tocha - 🔥 Full-Text Search for Firebase Projects that use the Spark (Free) plan. By @thatfiredev
+- [Tocha](https://github.com/thatfiredev/Tocha) - 🔥 Full-Text Search for Firebase Projects that use the Spark (Free) plan.
+  **By [@thatfiredev](https://github.com/thatfiredev)**

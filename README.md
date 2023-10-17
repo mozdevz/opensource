@@ -69,4 +69,4 @@ Happy Coding!</p>
 <br>
 <br>
 
-<p>You can add your repository by clicking this link: <a href=" https://bit.ly/open-source-moz" /a></p>
+<p>You can add your repository by clicking this link: (https://bit.ly/open-source-moz) </p>

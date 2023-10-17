@@ -5,6 +5,7 @@
 <p align="center">This repository is maintained by Mozdevz community, and presents a list organized in order of categories, Mozambican open source repositories. You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br>
 Happy Coding!</p>
 
+
 <h4 align="center">List of Open Source projects by Mozambican Developers</h4>
 
 <p align="center">
@@ -62,3 +63,10 @@ Happy Coding!</p>
   
 - [Tocha](https://github.com/thatfiredev/Tocha) - 🔥 Full-Text Search for Firebase Projects that use the Spark (Free) plan.
   **By [@thatfiredev](https://github.com/thatfiredev)**
+
+
+<br>
+<br>
+<br>
+
+<p>You can add your repository by clicking this link: <a href=" https://bit.ly/open-source-moz"</a></p>

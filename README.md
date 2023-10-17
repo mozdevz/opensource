@@ -9,7 +9,7 @@ Happy Coding!</p>
 <h2 align="center">List of Open Source projects by Mozambican Developers</h2>
 
 <p align="center">
-    <h5>Categories</h5>
+    <h2 align="center">Categories</h2>
   <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="Design and Creativity">Design and Creativity</a> | <a href="#Data Visualization Tools">Data Visualization Tools</a> | <a href="#Content Management Systems (CMS)">Content Management Systems (CMS)</a> |
 </p>
 

@@ -6,10 +6,10 @@
 Happy Coding!</p>
 
 
-<h4 align="center">List of Open Source projects by Mozambican Developers</h4>
+<h2 align="center">List of Open Source projects by Mozambican Developers</h2>
 
 <p align="center">
-    <h1>Categories</h1>
+    <h5>Categories</h5>
   <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="Design and Creativity">Design and Creativity</a> | <a href="#Data Visualization Tools">Data Visualization Tools</a> | <a href="#Content Management Systems (CMS)">Content Management Systems (CMS)</a> |
 </p>
 

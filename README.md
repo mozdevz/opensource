@@ -63,6 +63,8 @@ Happy Coding!</p>
 
 ## <a name="Society"> </a>Society
 
+- [be-the-hero](https://github.com/ltsaiete/be-the-hero) - BeTheHero is a project that aims to connect people who want to make monetary contributions to NGOs (Non-Governmental Organizations) that need help. **By [@ltsaiete](https://github.com/ltsaiete/be-the-hero)**
+
 - [denuncias_assedio_client](https://github.com/UJC-CodeHub/denuncias_assedio_client) - This is the front-end repository for the college sexual harassment reporting system. This system is being developed to provide a secure and confidential means for users to report incidents of sexual harassment in university settings. **By [@UJC-CodeHub](https://github.com/UJC-CodeHub)**
   
 - [SGRH](https://github.com/themisterpaps/SGRH) - Este Sistema (SGRH) tem como objectivo simplificar/melhorar a vida dos gestores de recursos no concerne a distribuição das várias áreas e funcionalidades de uma determinada empresa.  **By [@themisterpaps](https://github.com/themisterpaps)**   

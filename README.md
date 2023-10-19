@@ -10,12 +10,18 @@ Happy Coding!</p>
 
 <h2 align="center">Categories</h2>
 <p align="center">
-  <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="Design and Creativity">Design and Creativity</a> | <a href="#Data Visualization Tools">Data Visualization Tools</a> | <a href="#Content Management Systems (CMS)">Content Management Systems (CMS)</a> |
+  <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="Design and Creativity">Design and Creativity</a> | <a href="#Data Visualization Tools">Data Visualization Tools</a> | <a href="#Content Management Systems (CMS)">Content Management Systems (CMS)</a> | <a href="#Development Tools and Libraries">Development Tools and Libraries</a> | <a href="#Society">Society</a>
 </p>
 
 ## <a name="Web APIs and Services"> </a>Web APIs and Services
 
+- [Api Mocambique](https://github.com/Eleuterio258/api-mocambique) - A API Moçambique é uma poderosa ferramenta que fornece acesso a dados oficiais compilados pelo Instituto Nacional de Estatísticas de Moçambique (INE). **By [@Eleuterio258](https://github.com/Eleuterio258)**
+
 - [cambiomz](https://github.com/kradnoel/cambiomz) - Unofficial BCI Exchange API, that let you get the money exchange data available on Mozambique BCI Bank website. **By [@kradnoel](https://github.com/kradnoel)**
+  
+- [Moz-schools-api](https://github.com/FranciscoJunior12/Moz-Schools-API) - is an API that provides access to detailed information about schools in Mozambique such as name, province, district, code, latitude and longitude coordinates. by [@franciscojunior12](https://github.com/franciscojunior12).
+
+- [mozambique-api](https://github.com/mozambique-api/regions) - A Moçambique API fornece dados sobre as regios de Moçambique como provincias, distritos, localidades e fronteiras. **By [@mozambique-api](https://github.com/mozambique-api)** 
   
 - [mpesasdk](https://github.com/realdm/mpesasdk) - unofficial SDK with the aim to make it easy to integrate with the Vodacom Mozambique M-Pesa payments API on android apps. **By [@realdm](https://github.com/realdm)**
 
@@ -27,13 +33,15 @@ Happy Coding!</p>
   
 -  [PaymentsDS](https://github.com/paymentsds) (Payments Developer Suite) - a suite of SDKs aiming to help businesses integrating M-Pesa operations into their applications.
 
-- [Moz-schools-api](https://github.com/FranciscoJunior12/Moz-Schools-API) - is an API that provides access to detailed information about schools in Mozambique such as name, province, district, code, latitude and longitude coordinates. by [@franciscojunior12](https://github.com/franciscojunior12).
+- [unofficial-kabum-digital-api](https://github.com/JefferMarcelino/unofficial-kabum-digital-api) - This is an unofficial Kabum Digital API. The API provides endpoints to access posts and their content from the Kabum Digital website. **By [@JefferMarcelino](https://github.com/JefferMarcelino)** 
 
 
 
 ## <a name="Design and Creativity"> </a>Design and Creativity
 
 - [Colpal](https://github.com/themisterpaps/colpal) - 🎨 Color recommendation, color palettes, Flat UI colors, Modern Gradients and Monochromatic Palettes website, built with basicly html and css and 5 lines of javascript. **By [@themisterpaps](https://github.com/themisterpaps/)**
+
+- [hiina](https://github.com/gdscuem/hiina) - is a geometric typeface that was created when we were rebranding from DSC UEM to Google Developer Student Club UEM, and we were developing a lot of new and exciting projects so we were thinking about how we can bring all together to create a unique visual language. **By [@DSCUEM](https://github.com/gdscuem)** 
 
 - [simple-recyclerview-adapter](https://github.com/horaciocome1/simple-recyclerview-adapter) - General purpose object that can be costumized to each case (item layout) by the time of creation. Similar to what is done on Listview with default adapters. Compatible with androidx.
 
@@ -51,19 +59,28 @@ Happy Coding!</p>
 
 - [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
   
--[Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique.
-    
+- [Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique.
 
-## <a name="Community and Collaboration Tools"> </a>Community and Collaboration Tools
+## <a name="Society"> </a>Society
+
+- [denuncias_assedio_client](https://github.com/UJC-CodeHub/denuncias_assedio_client) - This is the front-end repository for the college sexual harassment reporting system. This system is being developed to provide a secure and confidential means for users to report incidents of sexual harassment in university settings. **By [@UJC-CodeHub](https://github.com/UJC-CodeHub)**
+  
+- [SGRH](https://github.com/themisterpaps/SGRH) - Este Sistema (SGRH) tem como objectivo simplificar/melhorar a vida dos gestores de recursos no concerne a distribuição das várias áreas e funcionalidades de uma determinada empresa.  **By [@themisterpaps](https://github.com/themisterpaps)**   
+
+## <a name="Development Tools and Libraries"> </a>Development Tools and Libraries
 
 - [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**
 
 - [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is a mobile tool where you can share and find stories from Mozambique. From thoughts and culture, through history and gastronomy, to tourism and even fashion, if it is something about Mozambique, you should share or find it in Reaque.
   **By [@horaciocome1](https://github.com/horaciocome1)**
+
+- [run-small-dropbox-package](https://github.com/fariosofernando/run-small-dropbox-package) -A simple package to access dropbox, using dart. **By [@fariosofernando](https://github.com/fariosofernando)**
   
 - [simple-recyclerview-touch-listener](https://github.com/horaciocome1/simple-recyclerview-touch-listener) - An android library to simple handle user touch events over recyclerview.
   **By [@horaciocome1](https://github.com/horaciocome1)**
-  
+
+- [sml-playground](https://github.com/JefferMarcelino/sml-playground) -This repository contains the server part of the SamoraLang Playground, which is designed to work in conjunction with the frontend application found at sml-frontend. **By [@JefferMarcelino](https://github.com/JefferMarcelino)**
+
 - [Tocha](https://github.com/thatfiredev/Tocha) - 🔥 Full-Text Search for Firebase Projects that use the Spark (Free) plan.
   **By [@thatfiredev](https://github.com/thatfiredev)**
 

@@ -27,6 +27,8 @@ Happy Coding!</p>
   
 -  [PaymentsDS](https://github.com/paymentsds) (Payments Developer Suite) - a suite of SDKs aiming to help businesses integrating M-Pesa operations into their applications.
 
+- [Moz-schools-api](https://github.com/FranciscoJunior12/Moz-Schools-API) - is an API that provides access to detailed information about schools in Mozambique such as name, province, district, code, latitude and longitude coordinates. by [@franciscojunior12](https://github.com/franciscojunior12).
+
 
 
 ## <a name="Design and Creativity"> </a>Design and Creativity

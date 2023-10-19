@@ -69,6 +69,8 @@ Happy Coding!</p>
 
 ## <a name="Development Tools and Libraries"> </a>Development Tools and Libraries
 
+- [Dumbanengue](https://github.com/HercoZauZau/Dumbanengue) - Mozambican Food Price Prediction using Machine Learning. **By [@hercozauzau](https://github.com/hercozauzau)**
+  
 - [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**
 
 - [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is a mobile tool where you can share and find stories from Mozambique. From thoughts and culture, through history and gastronomy, to tourism and even fashion, if it is something about Mozambique, you should share or find it in Reaque.

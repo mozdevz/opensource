@@ -17,7 +17,7 @@ You can access any repository in list below, fork it and submit your changes thr
 
 <h2 align="center">Categories</h2>
 <p align="center">
-  <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="#Design and Creativity">Design and Creativity</a> | <a href="#Datasets, Databases and Models">Datasets, Databases and Models</a> | <a href="#Content Management Systems (CMS)">Content Management Systems (CMS)</a> | <a href="#Development Tools and Libraries">Development Tools and Libraries</a> | <a href="#Managment Systems">Managment Systems</a>
+  <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="#Design and Creativity">Design and Creativity</a> | <a href="#Datasets, Databases and Models">Datasets, Databases and Models</a> | <a href="#Development Tools and Libraries">Development Tools and Libraries</a> | <a href="#Managment Systems">Managment Systems</a>
 </p>
 
 ## <a name="Web APIs and Services"> </a>Web APIs and Services
@@ -41,7 +41,7 @@ You can access any repository in list below, fork it and submit your changes thr
 -  [PaymentsDS](https://github.com/paymentsds) (Payments Developer Suite) - a suite of SDKs aiming to help businesses integrating M-Pesa operations into their applications.
 
 - [unofficial-kabum-digital-api](https://github.com/JefferMarcelino/unofficial-kabum-digital-api) - This is an unofficial Kabum Digital API. The API provides endpoints to access posts and their content from the Kabum Digital website. **By [@JefferMarcelino](https://github.com/JefferMarcelino)** 
-
+- [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
 
 
 ## <a name="Design and Creativity"> </a>Design and Creativity
@@ -65,11 +65,7 @@ You can access any repository in list below, fork it and submit your changes thr
 
 - [Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique.
 
-## <a name="Content Management Systems (CMS)"> </a>Content Management Systems (CMS)
-
-- [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
-
-  
+ 
 ## <a name="Managment Systems"> </a>Managment Systems
 
 - [be-the-hero](https://github.com/ltsaiete/be-the-hero) - BeTheHero is a project that aims to connect people who want to make monetary contributions to NGOs (Non-Governmental Organizations) that need help. **By [@ltsaiete](https://github.com/ltsaiete/be-the-hero)**

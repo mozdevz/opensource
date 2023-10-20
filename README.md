@@ -7,8 +7,8 @@ Mozambique has a thriving open source community, with many projects that can mak
 You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br><br>
 <span align="center">
 
-[![Number - #122](https://img.shields.io/badge/Number_of_Projects-%23122-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
-[![Destaque - Hacktoberfest](https://img.shields.io/badge/Destaque-DevFest%2021-yellow)](https://https://github.com/gdscuem/tree/main/2021/) [![Tipo  - Dedicada](https://img.shields.io/badge/Tipo_-Dedicada-blue)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Number - #29](https://img.shields.io/badge/Number_of_Projects-%2329-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Destaque - Hacktoberfest](https://img.shields.io/badge/Destaque-OpenSource-yellow)](https://https://github.com/gdscuem/tree/main/2021/) [![Tipo  - Dedicada](https://img.shields.io/badge/Tipo_-Dedicada-blue)](https://https://github.com/gdscuem/tree/main/2021/)
 
 </span>
     

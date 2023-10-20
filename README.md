@@ -87,6 +87,8 @@ Create visual content, such as graphics, images, videos, and animations. These p
 
 ## <a name="Development Tools and Libraries"> </a>Development Tools and Libraries
 
+- [Samora-Lang](https://github.com/GraHms/Samora-Lang) - Samora Lang - A Simple Interpreted Programing Language just for Educational Purposes  **By [@GraHms](https://github.com/GraHms)**
+
 - [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**
 
 - [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is a mobile tool where you can share and find stories from Mozambique. From thoughts and culture, through history and gastronomy, to tourism and even fashion, if it is something about Mozambique, you should share or find it in Reaque.

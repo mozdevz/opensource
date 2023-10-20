@@ -12,7 +12,7 @@ You can access any repository in list below, fork it and submit your changes thr
 
 </span>
     
-    <p>Happy Coding!</p>
+    Happy Coding!</p>
 
 
 <h2 align="center">List of Open Source projects by Mozambican Developers</h2>

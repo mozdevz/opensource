@@ -8,7 +8,6 @@ You can access any repository in list below, fork it and submit your changes thr
 <span align="center">
 
 [![Number - #29](https://img.shields.io/badge/Number_of_Projects-%2329-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
-[![Destaque - Hacktoberfest](https://img.shields.io/badge/Destaque-OpenSource-yellow)](https://https://github.com/gdscuem/tree/main/2021/) [![Tipo  - Dedicada](https://img.shields.io/badge/Tipo_-Dedicada-blue)](https://https://github.com/gdscuem/tree/main/2021/)
 
 </span>
     

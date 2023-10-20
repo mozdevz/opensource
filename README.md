@@ -1,8 +1,8 @@
 <h1 align="center">
-    Mozambique Open Source Projects 
+    Mozambique Open Source Projects
 </h1>
 
-<p align="center"> This repository is maintained by Mozdevz, and presents a list organized in order of categories, Mozambican open source repositories
+<p align="center"> This repository is maintained by Mozdevz, and presents a list organized in order of categories, Mozambican open source repositories.
 Mozambique has a thriving open source community, with many projects that can make a positive impact in the country.
 You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br><br>
 
@@ -21,14 +21,17 @@ You can access any repository in list below, fork it and submit your changes thr
 </p>
 
 ## <a name="Web APIs and Services"> </a>Web APIs and Services
+<p>
+Web APIs and services are technologies that allow different software applications to communicate with each other over the internet. They are used in a wide variety of applications, including websites, mobile apps, and desktop software.
+</p> <br>
 
-- [Api Mocambique](https://github.com/Eleuterio258/api-mocambique) - A API Moçambique é uma poderosa ferramenta que fornece acesso a dados oficiais compilados pelo Instituto Nacional de Estatísticas de Moçambique (INE). **By [@Eleuterio258](https://github.com/Eleuterio258)**
+- [Api Mocambique](https://github.com/Eleuterio258/api-mocambique) - The Mozambique API is a powerful tool that provides access to official data compiled by the National Institute of Statistics of Mozambique (INE). **By [@Eleuterio258](https://github.com/Eleuterio258)**
 
 - [cambiomz](https://github.com/kradnoel/cambiomz) - Unofficial BCI Exchange API, that let you get the money exchange data available on Mozambique BCI Bank website. **By [@kradnoel](https://github.com/kradnoel)**
   
-- [Moz-schools-api](https://github.com/FranciscoJunior12/Moz-Schools-API) - is an API that provides access to detailed information about schools in Mozambique such as name, province, district, code, latitude and longitude coordinates. by [@franciscojunior12](https://github.com/franciscojunior12).
+- [Moz-schools-api](https://github.com/FranciscoJunior12/Moz-Schools-API) - An API that provides access to detailed information about schools in Mozambique such as name, province, district, code, latitude and longitude coordinates. by [@franciscojunior12](https://github.com/franciscojunior12).
 
-- [mozambique-api](https://github.com/mozambique-api/regions) - A Moçambique API fornece dados sobre as regios de Moçambique como provincias, distritos, localidades e fronteiras. **By [@mozambique-api](https://github.com/mozambique-api)** 
+- [mozambique-api](https://github.com/mozambique-api/regions) - The Mozambique API provides data about regions of Mozambique such as provinces, districts, locations and borders. **By [@mozambique-api](https://github.com/mozambique-api)** 
   
 - [mpesasdk](https://github.com/realdm/mpesasdk) - unofficial SDK with the aim to make it easy to integrate with the Vodacom Mozambique M-Pesa payments API on android apps. **By [@realdm](https://github.com/realdm)**
 
@@ -45,6 +48,9 @@ You can access any repository in list below, fork it and submit your changes thr
 
 
 ## <a name="Design and Creativity"> </a>Design and Creativity
+<p>
+Create visual content, such as graphics, images, videos, and animations. These projects can be used for a variety of purposes, such as creating website and app designs, marketing materials, and social media posts.
+</p> <br>
 
 - [Colpal](https://github.com/themisterpaps/colpal) - 🎨 Color recommendation, color palettes, Flat UI colors, Modern Gradients and Monochromatic Palettes website, built with basicly html and css and 5 lines of javascript. **By [@themisterpaps](https://github.com/themisterpaps/)**
 
@@ -54,6 +60,9 @@ You can access any repository in list below, fork it and submit your changes thr
 
 
 ## <a name="Datasets, Databases and Models"> </a>Datasets, Databases and Models
+<p>
+    Databases store data, datasets train models, and models make predictions.
+</p> <br>
 
 - [Data4School](https://github.com/HercoZauZau/Data4School) - Mozambican Schools Data Analysis. **By [@hercozauzau](https://github.com/hercozauzau)**
 
@@ -67,6 +76,8 @@ You can access any repository in list below, fork it and submit your changes thr
 
  
 ## <a name="Managment Systems"> </a>Managment Systems
+<p>Management systems can be used to manage a wide range of activities, including quality, safety, environment, and information security.</p>
+<br>
 
 - [be-the-hero](https://github.com/ltsaiete/be-the-hero) - BeTheHero is a project that aims to connect people who want to make monetary contributions to NGOs (Non-Governmental Organizations) that need help. **By [@ltsaiete](https://github.com/ltsaiete/be-the-hero)**
 
@@ -92,7 +103,6 @@ You can access any repository in list below, fork it and submit your changes thr
   **By [@thatfiredev](https://github.com/thatfiredev)**
 
 
-<br>
 <br>
 <br>
 

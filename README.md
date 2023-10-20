@@ -10,7 +10,7 @@ Happy Coding!</p>
 
 <h2 align="center">Categories</h2>
 <p align="center">
-  <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="Design and Creativity">Design and Creativity</a> | <a href="#Data Visualization Tools">Data Visualization Tools</a> | <a href="#Content Management Systems (CMS)">Content Management Systems (CMS)</a> | <a href="#Development Tools and Libraries">Development Tools and Libraries</a> | <a href="#Society">Society</a>
+  <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="Design and Creativity">Design and Creativity</a> | <a href="#Datasets, Databases and Models">Datasets, Databases and Models</a> | <a href="#Content Management Systems (CMS)">Content Management Systems (CMS)</a> | <a href="#Development Tools and Libraries">Development Tools and Libraries</a> | <a href="Managment Systems">Managment Systems</a>
 </p>
 
 ## <a name="Web APIs and Services"> </a>Web APIs and Services
@@ -46,9 +46,11 @@ Happy Coding!</p>
 - [simple-recyclerview-adapter](https://github.com/horaciocome1/simple-recyclerview-adapter) - General purpose object that can be costumized to each case (item layout) by the time of creation. Similar to what is done on Listview with default adapters. Compatible with androidx.
 
 
-## <a name="Data Visualization Tools"> </a>Data Visualization Tools
+## <a name="Datasets, Databases and Models"> </a>Datasets, Databases and Models
 
 - [Data4School](https://github.com/HercoZauZau/Data4School) - Mozambican Schools Data Analysis. **By [@hercozauzau](https://github.com/hercozauzau)**
+
+- [Dumbanengue](https://github.com/HercoZauZau/Dumbanengue) - Mozambican Food Price Prediction using Machine Learning. **By [@hercozauzau](https://github.com/hercozauzau)**
   
 - [firecoil](https://github.com/thatfiredev/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@thatfiredev](https://github.com/thatfiredev)**
   
@@ -61,7 +63,7 @@ Happy Coding!</p>
   
 - [Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique.
 
-## <a name="Society"> </a>Society
+## <a name="Managment Systems"> </a>Managment Systems
 
 - [be-the-hero](https://github.com/ltsaiete/be-the-hero) - BeTheHero is a project that aims to connect people who want to make monetary contributions to NGOs (Non-Governmental Organizations) that need help. **By [@ltsaiete](https://github.com/ltsaiete/be-the-hero)**
 
@@ -71,8 +73,6 @@ Happy Coding!</p>
 
 ## <a name="Development Tools and Libraries"> </a>Development Tools and Libraries
 
-- [Dumbanengue](https://github.com/HercoZauZau/Dumbanengue) - Mozambican Food Price Prediction using Machine Learning. **By [@hercozauzau](https://github.com/hercozauzau)**
-  
 - [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**
 
 - [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is a mobile tool where you can share and find stories from Mozambique. From thoughts and culture, through history and gastronomy, to tourism and even fashion, if it is something about Mozambique, you should share or find it in Reaque.

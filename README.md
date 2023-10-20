@@ -1,12 +1,23 @@
 <h1 align="center">
-    MozDevz Open Source
+    Mozambique Open Source Projects 
 </h1>
 
-<p align="center">This repository is maintained by Mozdevz community, and presents a list organized in order of categories, Mozambican open source repositories. You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br><br>
-Happy Coding!</p>
+<p align="center">This repository is maintained by Mozdevz, and presents a list organized in order of categories, Mozambican open source repositories.<br>
+Mozambique has a thriving open source community, with many projects that can make a positive impact in the country.<br>
+You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br><br>
+<span align="center">
+
+[![Number - #122](https://img.shields.io/badge/Number_of_Projects-%23122-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
+[![Destaque - Hacktoberfest](https://img.shields.io/badge/Destaque-DevFest%2021-yellow)](https://https://github.com/gdscuem/tree/main/2021/) [![Tipo  - Dedicada](https://img.shields.io/badge/Tipo_-Dedicada-blue)](https://https://github.com/gdscuem/tree/main/2021/)
+
+</span>
+    
+    <p>Happy Coding!</p>
 
 
 <h2 align="center">List of Open Source projects by Mozambican Developers</h2>
+
+
 
 <h2 align="center">Categories</h2>
 <p align="center">
@@ -55,14 +66,14 @@ Happy Coding!</p>
 - [firecoil](https://github.com/thatfiredev/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@thatfiredev](https://github.com/thatfiredev)**
   
 - [GitHub_Insights--Mozambique](https://github.com/HercoZauZau/GitHub_Insights--Mozambique) - Exploring the Mozambican developer ecosystem through github data analysis. **By [@hercozauzau](https://github.com/hercozauzau)**
-  
+
+- [Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique.
 
 ## <a name="Content Management Systems (CMS)"> </a>Content Management Systems (CMS)
 
 - [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
-  
-- [Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique.
 
+  
 ## <a name="Managment Systems"> </a>Managment Systems
 
 - [be-the-hero](https://github.com/ltsaiete/be-the-hero) - BeTheHero is a project that aims to connect people who want to make monetary contributions to NGOs (Non-Governmental Organizations) that need help. **By [@ltsaiete](https://github.com/ltsaiete/be-the-hero)**
@@ -93,4 +104,19 @@ Happy Coding!</p>
 <br>
 <br>
 
-<p>Other categories are alowed, you can find them in the link above, and add your repositories by clicking this link: (https://bit.ly/open-source-moz)</p>
+
+## Would you like to participate directly in hacktoberfest 2023 through this repository?
+
+<p>You can do it in two ways:</p>
+<ul>
+    <li>Leaving your project so that the community can work to improve it.</li>
+    <li>Checking the available repositories and choosing one to help with pull requests.</li>
+</ul>
+
+
+<p>You can <b>submit</b> your open-source project via the link: (https://bit.ly/open-source-moz)</p>
+<p>If you want to <b>participate</b> as a contributor to someone else's project, make a pull request or open an issue identifying possible flaws or suggestions for improvements.</p>
+
+## Relevant Links 
+<p>Do you have questions about how to make a pull request? Watch the summary of our hacktoberfest 2023 presentation (https://youtu.be/3rOes5IWMWs?si=lPM54fsi1EBZG_zL)</p>
+<p>Other relevant links about what happened at hacktoberfest here in Mozambique in 2023 (https://bit.ly/hacktober-moz-links)</p>

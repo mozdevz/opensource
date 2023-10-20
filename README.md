@@ -2,16 +2,13 @@
     Mozambique Open Source Projects 
 </h1>
 
-<p align="center">This repository is maintained by Mozdevz, and presents a list organized in order of categories, Mozambican open source repositories.<br>
+<p align="center"> This repository is maintained by Mozdevz, and presents a list organized in order of categories, Mozambican open source repositories.<br>
 Mozambique has a thriving open source community, with many projects that can make a positive impact in the country.<br>
 You can access any repository in list below, fork it and submit your changes through a pull request. Enjoy and count your contributions to be able to participate in hacktoberfest! <br><br>
-<span align="center">
 
 [![Number - #29](https://img.shields.io/badge/Number_of_Projects-%2329-2ea44f)](https://https://github.com/gdscuem/tree/main/2021/)
 
-</span>
-    
-    Happy Coding!</p>
+</p>
 
 
 <h2 align="center">List of Open Source projects by Mozambican Developers</h2>

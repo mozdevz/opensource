@@ -114,19 +114,6 @@ Create visual content, such as graphics, images, videos, and animations. These p
 <br>
 <br>
 
-
-## Would you like to participate directly in hacktoberfest 2023 through this repository?
-
-<p>You can do it in two ways:</p>
-<ul>
-    <li>Leaving your project so that the community can work to improve it.</li>
-    <li>Checking the available repositories and choosing one to help with pull requests.</li>
-</ul>
-
-
-<p>You can <b>submit</b> your open-source project via the link: (https://bit.ly/open-source-moz)</p>
-<p>If you want to <b>participate</b> as a contributor to someone else's project, make a pull request or open an issue identifying possible flaws or suggestions for improvements.</p>
-
 ## Relevant Links 
 <p>Do you have questions about how to make a pull request? Watch the summary of our hacktoberfest 2023 presentation (https://youtu.be/3rOes5IWMWs?si=lPM54fsi1EBZG_zL)</p>
 <p>Other relevant links about what happened at hacktoberfest here in Mozambique in 2023 (https://bit.ly/hacktober-moz-links)</p>

@@ -104,7 +104,7 @@ Create visual content, such as graphics, images, videos, and animations. These p
 - [Tocha](https://github.com/thatfiredev/Tocha) - 🔥 Full-Text Search for Firebase Projects that use the Spark (Free) plan.
   **By [@thatfiredev](https://github.com/thatfiredev)**
 
-- [Design Líquido](https://github.com/DesignLiquido) - Collecion of programming languages and tools 100% in Portuguese, aiming Portuguese-speaking communities.
+- [Design Líquido](https://github.com/DesignLiquido) - Collection of programming languages and tools 100% in Portuguese, aiming Portuguese-speaking communities.
     - [Delégua](https://github.com/DesignLiquido/delegua) - General purpose programming language, written in TypeScript
     - [LMHT](https://github.com/DesignLiquido/LMHT) - Linguagem de Marcação Hiper Texto, or simply HTML in Portuguese
     - [FolEs](https://github.com/DesignLiquido/FolEs) - Folhas de Estilo, or SASS/CSS in Portuguese

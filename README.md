@@ -71,6 +71,8 @@ Create visual content, such as graphics, images, videos, and animations. These p
 - [firecoil](https://github.com/thatfiredev/firecoil) - Load images from Cloud Storage for Firebase in your Android app (through a StorageReference), using the image loading library Coil. **By [@thatfiredev](https://github.com/thatfiredev)**
   
 - [GitHub_Insights--Mozambique](https://github.com/HercoZauZau/GitHub_Insights--Mozambique) - Exploring the Mozambican developer ecosystem through github data analysis. **By [@hercozauzau](https://github.com/hercozauzau)**
+  
+- [Kutiva](https://github.com/HercoZauZau/Kutiva) - A list of open data from Mozambique organized by topic. **By [@hercozauzau](https://github.com/hercozauzau)**
 
 - [Mozambique Developer Survey](https://github.com/mozdevz/Mozambique-Developer-Survey) - Mozambique Developer Survey is a comprehensive survey organized by [@mozdevz](https://github.com/mozdevz) to uncover the world of developers in Mozambique.
 

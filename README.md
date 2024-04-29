@@ -64,6 +64,8 @@ Create visual content, such as graphics, images, videos, and animations. These p
     Databases store data, datasets train models, and models make predictions.
 </p> <br>
 
+- [Kutiva](https://github.com/HercoZauZau/Kutiva) - Mozambique Public Data. **By [@hercozauzau](https://github.com/hercozauzau)**
+
 - [Data4School](https://github.com/HercoZauZau/Data4School) - Mozambican Schools Data Analysis. **By [@hercozauzau](https://github.com/hercozauzau)**
 
 - [Dumbanengue](https://github.com/HercoZauZau/Dumbanengue) - Mozambican Food Price Prediction using Machine Learning. **By [@hercozauzau](https://github.com/hercozauzau)**

@@ -43,8 +43,11 @@ Web APIs and services are technologies that allow different software application
   
 -  [PaymentsDS](https://github.com/paymentsds) (Payments Developer Suite) - a suite of SDKs aiming to help businesses integrating M-Pesa operations into their applications.
 
-- [unofficial-kabum-digital-api](https://github.com/JefferMarcelino/unofficial-kabum-digital-api) - This is an unofficial Kabum Digital API. The API provides endpoints to access posts and their content from the Kabum Digital website. **By [@JefferMarcelino](https://github.com/JefferMarcelino)** 
+- [unofficial-kabum-digital-api](https://github.com/JefferMarcelino/unofficial-kabum-digital-api) - This is an unofficial Kabum Digital API. The API provides endpoints to access posts and their content from the Kabum Digital website. **By [@JefferMarcelino](https://github.com/JefferMarcelino)**
+  
 - [mpesa-wordpress-plugin](https://github.com/herquiloidehele/mpesa-wordpress-plugin) - M-PESA Payment Gateway for woocommerce - Wordpress. **By [@herquiloidehele](https://github.com/herquiloidehele)**
+
+-  [Moz Translate](https://github.com/emiltonnhampossa/Moz-Translate) is an open source library designed to provide translations between Portuguese, English and Changana. It is especially useful for programmers who want to integrate basic translations into their projects or create applications related to language learning and the preservation of regional languages **By [@Emilton Nhampossa](https://github.com/emiltonnhampossa/)**
 
 
 ## <a name="Design and Creativity"> </a>Design and Creativity

@@ -115,6 +115,8 @@ Create visual content, such as graphics, images, videos, and animations. These p
     - [FolEs](https://github.com/DesignLiquido/FolEs) - Folhas de Estilo, or SASS/CSS in Portuguese
     - [LinConEs](https://github.com/DesignLiquido/LinConEs) - Linguagem de Consulta Estruturada, or SQL in Portuguese
 
+- [Java language System](https://github.com/KelvenCassamo/java-language-system) - The Java Language System (JLS) is a Java library designed to facilitate the internationalization (i18n) of applications, enabling dynamic language management and text translation, Swing components, and Widgets on Android, based on XML files.
+  **By [@KelvenCassamo](https://github.com/KelvenCassamo/java-language-system)**
 
 <br>
 <br>

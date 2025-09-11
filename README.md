@@ -117,6 +117,10 @@ Create visual content, such as graphics, images, videos, and animations. These p
 
 - [Java language System](https://github.com/KelvenCassamo/java-language-system) - The Java Language System (JLS) is a Java library designed to facilitate the internationalization (i18n) of applications, enabling dynamic language management and text translation, Swing components, and Widgets on Android, based on XML files.
   **By [@KelvenCassamo](https://github.com/KelvenCassamo/java-language-system)**
+  
+- [vygrant](https://github.com/vybraan/vygrant) - OAuth2 authentication daemon and CLI for securely managing and refreshing tokens in legacy linux applications. **By [@vybraan](https://github.com/vybraan)**
+- [vyai](https://github.com/vybraan/vyai) – Lightweight terminal client for Google Gemini API with context-aware chats - **By [@vybraan](https://github.com/vybraan)**
+
 
 <br>
 <br>

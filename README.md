@@ -17,7 +17,7 @@ You can access any repository in list below, fork it and submit your changes thr
 
 <h2 align="center">Categories</h2>
 <p align="center">
-  <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="#Design and Creativity">Design and Creativity</a> | <a href="#Datasets, Databases and Models">Datasets, Databases and Models</a> | <a href="#Development Tools and Libraries">Development Tools and Libraries</a> | <a href="#Managment Systems">Managment Systems</a>
+  <a href="#Web APIs and Services">Web APIs and Services</a> | <a href="#Design and Creativity">Design and Creativity</a> | <a href="#Datasets, Databases and Models">Datasets, Databases and Models</a> | <a href="#Development Tools and Libraries">Development Tools and Libraries</a> | <a href="#Managment Systems">Managment Systems</a> | <a href="#Others">Others</a>
 </p>
 
 ## <a name="Web APIs and Services"> </a>Web APIs and Services
@@ -118,6 +118,15 @@ Create visual content, such as graphics, images, videos, and animations. These p
 
 - [Java language System](https://github.com/KelvenCassamo/java-language-system) - The Java Language System (JLS) is a Java library designed to facilitate the internationalization (i18n) of applications, enabling dynamic language management and text translation, Swing components, and Widgets on Android, based on XML files.
   **By [@KelvenCassamo](https://github.com/KelvenCassamo/java-language-system)**
+
+
+## <a name="Others"> </a>Others
+<p>
+    Other mozambican projects.
+</p> <br>
+
+- [Tech Companies in Mozambique](https://github.com/miltonmaleiane/tech-companies-in-mozambique) - List of Tech Companies based in Mozambique. **By [@miltonmaleiane](https://github.com/miltonmaleiane)**
+
 
 <br>
 <br>
